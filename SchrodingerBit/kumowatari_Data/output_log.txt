@@ -1,0 +1,60 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970M     (ID=0x13d8)
+    Vendor:   NVIDIA
+    VRAM:     2989 MB
+    Driver:   10.18.13.5850
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\nwuser.DA\Desktop\createGame's\SchrodingerBit\SchrodingerBit\kumowatari_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\nwuser.DA\Desktop\createGame's\SchrodingerBit\SchrodingerBit\kumowatari_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\nwuser.DA\Desktop\createGame's\SchrodingerBit\SchrodingerBit\kumowatari_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\nwuser.DA\Desktop\createGame's\SchrodingerBit\SchrodingerBit\kumowatari_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\nwuser.DA\Desktop\createGame's\SchrodingerBit\SchrodingerBit\kumowatari_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\nwuser.DA\Desktop\createGame's\SchrodingerBit\SchrodingerBit\kumowatari_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\nwuser.DA\Desktop\createGame's\SchrodingerBit\SchrodingerBit\kumowatari_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\nwuser.DA\Desktop\createGame's\SchrodingerBit\SchrodingerBit\kumowatari_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+Platform assembly: C:\Users\nwuser.DA\Desktop\createGame's\SchrodingerBit\SchrodingerBit\kumowatari_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\nwuser.DA\Desktop\createGame's\SchrodingerBit\SchrodingerBit\kumowatari_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.798517 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 16.434166 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 0.700839 ms (FindLiveObjects: 0.050172 ms CreateObjectMapping: 0.047407 ms MarkObjects: 0.589826 ms  DeleteObjects: 0.011061 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.297678 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 294.
+Total: 0.649876 ms (FindLiveObjects: 0.049382 ms CreateObjectMapping: 0.047012 ms MarkObjects: 0.541629 ms  DeleteObjects: 0.011061 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.733629 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 0.721777 ms (FindLiveObjects: 0.068740 ms CreateObjectMapping: 0.049777 ms MarkObjects: 0.590617 ms  DeleteObjects: 0.011456 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.571554 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 354.
+Total: 0.830814 ms (FindLiveObjects: 0.063999 ms CreateObjectMapping: 0.052148 ms MarkObjects: 0.702024 ms  DeleteObjects: 0.011061 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.651851 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 288.
+Total: 0.330666 ms (FindLiveObjects: 0.022913 ms CreateObjectMapping: 0.027259 ms MarkObjects: 0.274567 ms  DeleteObjects: 0.005925 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2a10 -> priority: 1 
+  Thread -> id: 974 -> priority: 1 
+  Thread -> id: 56c -> priority: 1 
+  Thread -> id: 60 -> priority: 1 
