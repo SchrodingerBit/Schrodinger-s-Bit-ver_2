@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e417a7b8fc7a59146bc1158fe08582ef
+timeCreated: 1498103944
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - StandbySprite: {fileID: 21300000, guid: 02098ad11fad2a043af307749eaad5a5, type: 3}
+  - HoldSprite: {fileID: 21300000, guid: 24f5a65c6a427274a94984dc2cf628a2, type: 3}
+  - SlashSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
