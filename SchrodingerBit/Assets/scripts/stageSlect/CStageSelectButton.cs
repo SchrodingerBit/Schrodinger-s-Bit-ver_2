@@ -26,12 +26,6 @@ public class CStageSelectButton : MonoBehaviour
             case 4:
                 CActibStage.stageID = 4;
                 break;
-            case 5:
-                CActibStage.stageID = 5;
-                break;
-            case 6:
-                CActibStage.stageID = 6;
-                break;
             default:
                 break;
             

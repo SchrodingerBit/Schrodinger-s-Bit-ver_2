@@ -27,7 +27,7 @@ public class Player : MonoBehaviour
     Rigidbody2D rigidbody2d;
 
     //変身の判定
-    float ChangeFlug = 0;
+    public static float ChangeFlug = 0;
 
     //地面に着いているか
     bool isGrounded;

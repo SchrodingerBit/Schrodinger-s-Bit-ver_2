@@ -50,6 +50,10 @@
      <Compile Include="Assets\scripts\Character.cs" />
      <Compile Include="Assets\scripts\Player.cs" />
      <Compile Include="Assets\scripts\ViewerCamera.cs" />
+     <Compile Include="Assets\scripts\block\CReinGimmick.cs" />
+     <Compile Include="Assets\scripts\block\CSanderGimmik.cs" />
+     <Compile Include="Assets\scripts\enemy\CEnemyHit.cs" />
+     <Compile Include="Assets\scripts\enemy\CEnemyMove.cs" />
      <Compile Include="Assets\scripts\managers\CFadeManager.cs" />
      <Compile Include="Assets\scripts\managers\CGameManager.cs" />
      <Compile Include="Assets\scripts\menu\CConfigChenger.cs" />
@@ -57,12 +61,26 @@
      <Compile Include="Assets\scripts\menu\CTitleChenger.cs" />
      <Compile Include="Assets\scripts\music\CVolumeManager.cs" />
      <Compile Include="Assets\scripts\music\SE.cs" />
+     <Compile Include="Assets\scripts\result\CClearTime.cs" />
+     <Compile Include="Assets\scripts\result\CLogo.cs" />
+     <Compile Include="Assets\scripts\result\CMenuChanger.cs" />
+     <Compile Include="Assets\scripts\result\CTitleChanger.cs" />
+     <Compile Include="Assets\scripts\result\ResultLogotype.cs" />
      <Compile Include="Assets\scripts\stageSlect\CBackChanger.cs" />
+     <Compile Include="Assets\scripts\stageSlect\CClearSceneChange.cs" />
      <Compile Include="Assets\scripts\stageSlect\CStageChanger.cs" />
      <Compile Include="Assets\scripts\stageSlect\CStageSelectButton.cs" />
      <Compile Include="Assets\scripts\stageViewCamera\CActibStage.cs" />
      <Compile Include="Assets\scripts\stageViewCamera\CCameraViewPosition.cs" />
      <Compile Include="Assets\scripts\title\CSceneChanger.cs" />
+     <Compile Include="Assets\scripts\ui\CAnim.cs" />
+     <Compile Include="Assets\scripts\ui\CClearImage.cs" />
+     <Compile Include="Assets\scripts\ui\CGauge.cs" />
+     <Compile Include="Assets\scripts\ui\CImage.cs" />
+     <Compile Include="Assets\scripts\ui\CPushbutton.cs" />
+     <Compile Include="Assets\scripts\ui\CSandwich.cs" />
+     <Compile Include="Assets\scripts\ui\CSpawn.cs" />
+     <Compile Include="Assets\scripts\ui\CTime.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
