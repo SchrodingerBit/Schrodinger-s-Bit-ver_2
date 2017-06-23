@@ -10,21 +10,23 @@ public class CLogo : MonoBehaviour
     public Sprite StandbySprite;
     public Sprite HoldSprite;
     public Sprite SlashSprite;
-    public static bool logoflg =true; //true…クリア成功　false…クリア失敗
+    public static bool logoflg =false; //true…クリア成功　false…クリア失敗
     //Vector3 logoPos;
 
     void Start()
     {
         // このobjectのSpriteRendererを取得
         MainSpriteRenderer = gameObject.GetComponent<SpriteRenderer>();
-        MainSpriteRenderer.sprite = StandbySprite;
-        transform.SetAsFirstSibling();
+        MainSpriteRenderer.sprite = SlashSprite;
+        this.transform.SetAsLastSibling();
         Debug.Log("CLogo:" + logoflg);
     }
 
 
     void Update()
     {
+        //transform.SetAsFirstSibling();
+
         if (logoflg)
         {
             Success();

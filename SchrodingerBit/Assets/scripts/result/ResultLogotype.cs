@@ -18,6 +18,7 @@ public class ResultLogotype : MonoBehaviour
 	// Update is called once per frame
 	void Update ()
     {
+        //transform.SetAsLastSibling();
         if (i <= 10) 
         {
             i++;

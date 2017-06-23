@@ -24,7 +24,7 @@ public class CClearTime : MonoBehaviour
         timer();            // 分
                             // m_timeSeconds = (m_TimeChange - 1) % 60;            // 秒
                             //timer();
-        Debug.Log("CClearTime:"+logoflg);
+        Debug.Log("CClearTime:"+CLogo.logoflg);
     }
 
     void timer()
