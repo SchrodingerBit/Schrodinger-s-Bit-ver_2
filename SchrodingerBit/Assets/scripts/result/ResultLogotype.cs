@@ -6,7 +6,7 @@ public class ResultLogotype : MonoBehaviour
 {
 
     public float logocnt = 0.001f;
-    public static int i;
+    private static int i;
 
 	// Use this for initialization
 	void Start ()
@@ -27,7 +27,7 @@ public class ResultLogotype : MonoBehaviour
         {
             if (i % 2 == 0)
             {
-                gameObject.transform.localScale += new Vector3(0.05f+(logocnt), 0.05f+(logocnt), 0);
+                gameObject.transform.localScale += new Vector3(0.002f+(logocnt), 0.002f+(logocnt), 0);
             }
             i++;
         }

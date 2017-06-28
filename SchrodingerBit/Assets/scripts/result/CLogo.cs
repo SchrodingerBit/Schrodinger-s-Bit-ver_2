@@ -10,7 +10,7 @@ public class CLogo : MonoBehaviour
     public Sprite StandbySprite;
     public Sprite HoldSprite;
     public Sprite SlashSprite;
-    public static bool logoflg =false; //true…クリア成功　false…クリア失敗
+    public static bool logoflg =true; //true…クリア成功　false…クリア失敗
     //Vector3 logoPos;
 
     void Start()
